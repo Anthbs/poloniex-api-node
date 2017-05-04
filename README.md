@@ -7,7 +7,7 @@ poloniex-api-node
 
 # Install
 
-    npm install poloniex-api-node
+    npm install https://github.com/Anthbs/poloniex-api-node.git --save
 
 # Usage
 
